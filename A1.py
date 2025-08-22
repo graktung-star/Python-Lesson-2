@@ -1,0 +1,5 @@
+print ("I am \nVirat Kohli")
+print ("No ",end="")
+print("I am Sachin Tendulkar")
+print("I am the King of being reckless when needed")
+print("My score last match was achieved in 3.2 overs. I made", 15+15,"runs")
